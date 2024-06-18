@@ -1,0 +1,13 @@
+[
+    {
+        "item": "Gago Buguer",
+        "price": 20.0,
+        "description": "Sinta a melhor gaguejada de todas."
+    },
+    {
+        "item": "Morango Chipps",
+        "price": 10,
+        "description": "Fritas no formato de morangos."
+    }
+
+]
